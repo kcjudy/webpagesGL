@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+    <!--
+      -Name: [Katherine Judy]
+      -UnityID: [kcjudy]
+      -Date: [April 8th, 2023]
+      -Assignment: [Independent Assignment 4]
+      -Description: [HTML webpage]
+      color: #FF00FF 
+      -->
+    <html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="UTF-8" />
+        <link href="style.css" rel="stylesheet" type="text/css" />
+        <title>About me - Katherine Judy</title>
+    </head>
+    <h1> Welcome </h1>
+     <p><p style=“color:  ; font-family: Arial;”> Description: <ins> About Me </ins>
+    <body>
+    <!-- This is a comment, you should update it to describe parts of your code -->
+
+    <p>My name is Katherine. During my free time while I am not studying or catching up on 
+  chores I typically like to spend my time gardening in NCSUs greenhouse or playing with
+	my dog.</p>    
+
+<h4> My Favorite Things </h4>
+<li> Dog
+<li> Gardening
+    </body>
+    <p> For more information on NCSU's greenhouse: </p>
+<a href= "https://phytotron.ncsu.edu/greenhouses" target="_blank" >North Carolina State Univeristy </a>
+.class {
+    property: value;
+</html>
